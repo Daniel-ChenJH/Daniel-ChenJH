@@ -1,21 +1,32 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi there, I'm Daniel-ChenJH! 👋
 
 <a href="https://github.com/Daniel-ChenJH">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel-ChenJH&show_icons=true" alt="Daniel-ChenJH's GitHub Stats" />
 </a>
+
+Hi there, I'm **Daniel-ChenJH**, a **Information Engineering student** 🚀 from China.  Currently, I'm a junior student in Shanghai Jiaotong University.👨🏽‍💼. 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 💼 I’m pursuing a Bachelor's degree in Information Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via 13760280318@163.com to reach me.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 ### My latest projects
 
@@ -26,12 +37,5 @@ Here are some ideas to get you started:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Masked-Unmasked-Face-Recognition" alt="Masked-Unmasked-Face-Recognition" />
 </a>
 
-### Recently I'm coding in...
-
-<a href="https://codestats.net/users/WEGFan">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
-</a>
-
----
 
 ⭐️ From [Daniel-ChenJH](https://github.com/Daniel-ChenJH)
