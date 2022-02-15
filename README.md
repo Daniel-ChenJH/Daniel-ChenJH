@@ -3,7 +3,7 @@
 <a href="https://github.com/Daniel-ChenJH">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel-ChenJH&show_icons=true" alt="Daniel-ChenJH's GitHub Stats" />
 </a>
-
+  
 Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 from China. Currently, I'm a junior student in Shanghai Jiaotong University.👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -37,8 +37,8 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 
 <a href="https://github.com/Daniel-ChenJH/Course-Bullying-in-SJTU">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Course-Bullying-in-SJTU" alt="Course-Bullying-in-SJTU" />
-</a>
-
+</a>  
+  
 <a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Masked-Unmasked-Face-Recognition" alt="Masked-Unmasked-Face-Recognition" />
 </a>
