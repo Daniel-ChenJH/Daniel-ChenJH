@@ -3,6 +3,9 @@
 <a href="https://github.com/Daniel-ChenJH">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel-ChenJH&show_icons=true" alt="Daniel-ChenJH's GitHub Stats" />
 </a>
+
+Total hits:<a title="Hits" target="_blank" href="https://github.com/Daniel-ChenJH"><img src="https://hits.b3log.org/Daniel-ChenJH/Daniel-ChenJH.svg"></a>
+
   
 Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 from China. Currently, I'm a junior student in Shanghai Jiaotong University.👨🏽‍💼. 
 
