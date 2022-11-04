@@ -37,7 +37,8 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 
 ### My latest projects
     
-**I had published a repo called 'Course-Bullying-in-SJTU', which was an on-time automatic class snatching system for undergraduates in Shanghai JiaoTong University. It earns 6600+ views and 92 stars at the height of its life. However something weird happened and I had to change its visualibility into 'private'. If you have interest in this repo, feel free to contact me for more insight.**
+    
+**I had published a repo called 'Course-Bullying-in-SJTU', which was an on-time automatic class snatching system for undergraduates in Shanghai JiaoTong University. It earned 6600+ views and 92 stars at the height of its life. However after something weird happened, I had to change its visualibility into 'private'. If you have any interest in this repo, feel free to contact me for more insights.**
 
 <a href="https://github.com/Daniel-ChenJH/CSMA-CA-simulation-and-RL-enhancement">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=CSMA-CA-simulation-and-RL-enhancement" alt="CSMA-CA-simulation-and-RL-enhancement" />
