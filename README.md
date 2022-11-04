@@ -37,12 +37,16 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 
 ### My latest projects
 
-<a href="https://github.com/Daniel-ChenJH/Course-Bullying-in-SJTU">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Course-Bullying-in-SJTU" alt="Course-Bullying-in-SJTU" />
+<a href="https://github.com/Daniel-ChenJH/CSMA-CA-simulation-and-RL-enhancement">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=CSMA-CA-simulation-and-RL-enhancement" alt="CSMA-CA-simulation-and-RL-enhancement" />
 </a>  
   
 <a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Masked-Unmasked-Face-Recognition" alt="Masked-Unmasked-Face-Recognition" />
+</a>
+
+<a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=homework321002" alt="homework321002" />
 </a>
 
 
