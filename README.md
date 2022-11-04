@@ -6,7 +6,7 @@
 
 
   
-Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 from China. Currently, I'm a junior student in Shanghai Jiaotong University.👨🏽‍💼. 
+Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 from China. Currently, I'm a senior student in Shanghai Jiaotong University.👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
