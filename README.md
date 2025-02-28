@@ -1,24 +1,16 @@
 ### Hi there, I'm Daniel-ChenJH! 👋
 
-<a href="https://github.com/Daniel-ChenJH">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-ChenJH&show_icons=true" alt="Daniel-ChenJH's GitHub Stats" />
-</a>
-
-
-  
-Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 from China. Currently, I'm a senior student in Shanghai Jiaotong University.👨🏽‍💼. 
+I'm an senior student 👨🏽‍💼 majoring in **Information and Communication Engineering** 🚀 from Shanghai Jiaotong University, China.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Engineering;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently ready for an internship in Shanghai, China.; 
+- 💼 I’m pursuing a Master's degree in Information and Communication Engineering and will graduate in Spring, 2026;
+- 🤔 My interests are with RAG, LLM, Machine Learning, Recommendation, etc..;
 - 📫 Please email via 13760280318@163.com to reach me.
-
 
 
 **Languages and Tools:**  
@@ -34,23 +26,40 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
 ### My latest projects
-    
-    
-**I had published a repo called 'Course-Bullying-in-SJTU', which was an on-time automatic class snatching system for undergraduates in Shanghai JiaoTong University. It earned 6600+ views and 92 stars at the height of its life. However after something weird happened, I had to change its visualibility into 'private'. If you have any interest in this repo, feel free to contact me for more insights.**
+
+<a href="https://github.com/Daniel-ChenJH/Carla-Dataset-Generator">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Carla-Dataset-Generator" alt="Carla-Dataset-Generator" />
+</a>  
+
+This project is a diversified simulation data system that uses CARLA to capture interactions between people, vehicles, and roads, offering customizable interfaces for diverse parameters. 
+
+The simulation system is implemented based on the CVPR 2024 CARLA Leaderboard 2.0 simulation framework. 
+
+You can train your own autonomous driving algorithms with the data generated.
+
+### Other projects
+
+<a href="https://github.com/Daniel-ChenJH/DETR-mmWave-Intelligent-Perception">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=DETR-mmWave-Intelligent-Perception" alt="DETR-mmWave-Intelligent-Perception" />
+</a>  
+
+<a href="https://github.com/Daniel-ChenJH/Course-Bullying-in-SJTU">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Course-Bullying-in-SJTU" alt="Course-Bullying-in-SJTU" />
+</a>  
 
 <a href="https://github.com/Daniel-ChenJH/CSMA-CA-simulation-and-RL-enhancement">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=CSMA-CA-simulation-and-RL-enhancement" alt="CSMA-CA-simulation-and-RL-enhancement" />
 </a>  
-  
+
 <a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Masked-Unmasked-Face-Recognition" alt="Masked-Unmasked-Face-Recognition" />
-</a>
+</a>  
 
-<a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=homework321002" alt="homework321002" />
-</a>
+<a href="https://github.com/Daniel-ChenJH/HOG-SVM-Face-Detection">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=HOG-SVM-Face-Detection" alt="HOG-SVM-Face-Detection" />
+</a>  
 
+**To be continued...**
 
 ⭐️ From [Daniel-ChenJH](https://github.com/Daniel-ChenJH)
