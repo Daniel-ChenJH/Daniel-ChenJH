@@ -29,6 +29,10 @@ I have led ACN end to end—from early research and product definition to archit
 
 **Explore ACN:** [Repository](https://github.com/FTShare-Lab/agent-claim-network) · [English README](https://github.com/FTShare-Lab/agent-claim-network/blob/main/README_EN.md) · [Web UI Preview](https://ftshare-lab.github.io/agent-claim-network/)
 
+**ACN for DeepSeek Harness** brings ACN's knowledge sharing to DeepSeek Harness. Agents can capture what they learn as Claims and reuse them across sessions or share them with their team.
+
+[Plugin repository](https://github.com/FTShare-Lab/dsh-plugin-acn) · [npm package](https://www.npmjs.com/package/@ftai/dsh-plugin-acn) · Install in DeepSeek Harness as `@ftai/dsh-plugin-acn`
+
 ## What I'm exploring
 
 - Agent harnesses and terminal-native agent UX
